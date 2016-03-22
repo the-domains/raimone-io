@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: It all comes down to dots.
-datePublished: '2016-03-22T01:29:48.877Z'
-dateModified: '2016-03-22T01:29:47.202Z'
+datePublished: '2016-03-22T01:31:08.431Z'
+dateModified: '2016-03-22T01:30:45.817Z'
 title: '"What is Innovation" by Fast Company'
 author: []
+sourcePath: _posts/2016-03-22-what-is-innovation-by-fast-company.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-22-what-is-innovation-by-fast-company.md
-published: true
 url: what-is-innovation-by-fast-company/index.html
 _type: Article
 

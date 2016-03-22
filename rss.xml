@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Resources]]></title>
         <description><![CDATA[Resources]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/raimone-io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 01:29:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Mar 2016 01:31:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/raimone-io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA["What is Innovation" by Fast Company]]></title>
             <description><![CDATA[<article><h1>"What is Innovation" by Fast Company</h1><p>It all comes down to dots.</p></article>]]></description>
-            <link>undefinedwhat-is-innovation-by-fast-company/index.html</link>
+            <link>https://thegrid.ai/raimone-io/what-is-innovation-by-fast-company/index.html</link>
             <guid isPermaLink="false">75996c97-5b29-4157-a413-dd3ea9b2fa3c</guid>
-            <pubDate>Tue, 22 Mar 2016 01:29:48 GMT</pubDate>
+            <pubDate>Tue, 22 Mar 2016 01:31:08 GMT</pubDate>
         </item>
     </channel>
 </rss>

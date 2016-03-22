@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Resources]]></title>
+        <description><![CDATA[Resources]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 22 Mar 2016 01:29:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA["What is Innovation" by Fast Company]]></title>
+            <description><![CDATA[<article><h1>"What is Innovation" by Fast Company</h1><p>It all comes down to dots.</p></article>]]></description>
+            <link>undefinedwhat-is-innovation-by-fast-company/index.html</link>
+            <guid isPermaLink="false">75996c97-5b29-4157-a413-dd3ea9b2fa3c</guid>
+            <pubDate>Tue, 22 Mar 2016 01:29:48 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
